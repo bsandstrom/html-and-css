@@ -153,18 +153,18 @@ p {
 #showcase .showcase-content {
   margin-top: -65px;
   display: flex;
-  text-align: center;
-  height: 100%;
   flex-direction: column;
+  text-align: center;
   justify-content: center;
   align-items: center;
+  height: 100%;
   padding: 0 2rem;
   /* Overlay */
   /* position: absolute;
-  top: 60px;
+  top: 65px;
   left: 0;
   right: 0;
-  bottom: 9 */
+  bottom: 0; */
   background-color: rgba(0, 0, 0, 0.4);
 }
 
